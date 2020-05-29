@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1582803534 source:d:\visual_studio\guess_it\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
